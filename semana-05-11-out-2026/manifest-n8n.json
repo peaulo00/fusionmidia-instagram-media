@@ -1,0 +1,794 @@
+{
+  "campanha": "Fusion Mídia | 05–11/10/2026",
+  "conta": "@fusionmidiaoficial",
+  "fuso_horario": "America/Sao_Paulo",
+  "status": "conteudo_aprovado; hospedagem_https_pronta; automacao_temporaria_codex_em_configuracao",
+  "aprovado_em": "2026-10-02T13:36:48-03:00",
+  "total": {
+    "estaticos": 7,
+    "carrosseis": 7,
+    "slides_carrossel": 35,
+    "stories": 21,
+    "arquivos_jpeg": 63
+  },
+  "observacao": "URLs HTTPS públicas prontas. Automação temporária no Codex autorizada em 05/10; desabilitar antes de ativar o fluxo n8n para evitar duplicações.",
+  "dias": [
+    {
+      "data": "2026-10-05",
+      "dia": "Segunda",
+      "estatico": {
+        "publicar_em": "2026-10-05T09:00:00-03:00",
+        "legenda": "“Achei que você ia responder.”\n\nSe essa frase aparece na equipe, vale revisar como cada contato passa de uma pessoa para outra. Um combinado simples ajuda: registrar quem assume a conversa, o que fará e quando.\n\nA Fusion apoia empresas conectando estratégia de marketing, automação e soluções digitais à rotina de quem atende.\n\nEnvie para quem cuida do atendimento.\n\n#FusionMidia #AtendimentoAoCliente #GestaoComercial #MarketingParaEmpresas",
+        "midia": {
+          "arquivo": "media/2026-10-05_estatico.jpg",
+          "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-05_estatico.jpg",
+          "sha256_jpeg": "554c365b2263ef03da08f2e95e6edebd094baa44c006ba0880653bf6dec7e936",
+          "sha256_original_png": "c985984438b9aa7c8353ddf1c8eb91882d95221f275eba3dd8b618224917dbc1",
+          "dimensoes": [
+            1080,
+            1350
+          ]
+        }
+      },
+      "stories": {
+        "publicar_em": "2026-10-05T12:15:00-03:00",
+        "ordem": "Publicar 01, 02 e 03 sequencialmente, uma única vez cada.",
+        "midias": [
+          {
+            "arquivo": "media/2026-10-05_story_01.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-05_story_01.jpg",
+            "sha256_jpeg": "dd8160392841ddcd01db88d76bea8affc31d14bb76e8a8288593135b9e41ef6a",
+            "sha256_original_png": "38c734bfe3ea7e3c58f9b594cda7876040e7979ab9489c29608f1ca39f50db46",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-05_story_02.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-05_story_02.jpg",
+            "sha256_jpeg": "5035eb7adef423e1ac463150e0bbc61c3171f1199e844ea71043c78e9c9cb57f",
+            "sha256_original_png": "c8a7d1cf3d89a49470a4b1e3b7cc854b7b2dad4a58d37aeb149e7a3c720be80f",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-05_story_03.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-05_story_03.jpg",
+            "sha256_jpeg": "125ba81d5de674d7f0110bb262de9aa7a85a39b523d736638661d5c481c0d7d0",
+            "sha256_original_png": "e334def821d2268588cc93f830f64c181f1494293a03e1dd7b4f68cf0e8a7bdd",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          }
+        ]
+      },
+      "carrossel": {
+        "publicar_em": "2026-10-05T18:30:00-03:00",
+        "legenda": "Três sinais de uma rotina que depende da memória: contato sem responsável, tarefa vaga e retorno sem data.\n\nEscolha uma conversa em aberto e registre:\n• Quem acompanha?\n• Qual é a próxima ação?\n• Em que data ela acontece?\n\nIsso ajuda a definir o processo antes de escolher como automatizá-lo.\n\nSalve para revisar com a equipe.\n\n#FusionMidia #AtendimentoAoCliente #GestaoComercial #MarketingParaEmpresas",
+        "ordem": "Publicar os cinco slides na ordem 01 a 05.",
+        "midias": [
+          {
+            "arquivo": "media/2026-10-05_carrossel_01.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-05_carrossel_01.jpg",
+            "sha256_jpeg": "a6b1d7e41b80e8522dd89a73a7b9a74b3734b768c00b647589757ade57f0d463",
+            "sha256_original_png": "ad3c3222a59e9ed4c055a3ee3b1fa476e19d123fdb486f1dd683ac0f5c1101fe",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-05_carrossel_02.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-05_carrossel_02.jpg",
+            "sha256_jpeg": "8a0eb9b53b88cf20ca6ac3b6bc3f9772a356544b37c1d0a18d0be35584ad8908",
+            "sha256_original_png": "9c78f1212745819d28a9952e5743ed8704011c4b6926f09677460e597d000d14",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-05_carrossel_03.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-05_carrossel_03.jpg",
+            "sha256_jpeg": "88c9925eaec26e0aa76e89ff91adbade7dffe4cbe41763545f71f58f9e0efbd6",
+            "sha256_original_png": "ef3916bf720c91970f3647b20da72e48879e67c91f63e8fb947cfaad4c3344a2",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-05_carrossel_04.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-05_carrossel_04.jpg",
+            "sha256_jpeg": "1acb7eb7ef023cf1d1dbc995da43d43e43e256c98947a1f91ff41c35feae20ff",
+            "sha256_original_png": "45fd44983a479c25a42b3bc12196ab3a9a33d0271f0dc4877e29555e41f3d2b5",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-05_carrossel_05.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-05_carrossel_05.jpg",
+            "sha256_jpeg": "172e35f95d2bf12be551c9b9e6a942dafde6d8b8ad692789b2916ead36b86b37",
+            "sha256_original_png": "1ba364da1d7582086a4e8771559d66ce559f483f2936ae36c6b56e51cb59e63d",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "data": "2026-10-06",
+      "dia": "Terça",
+      "estatico": {
+        "publicar_em": "2026-10-06T09:00:00-03:00",
+        "legenda": "Você pergunta uma coisa. A resposta automática fala de outra. A conversa foi rápida, mas o problema continua.\n\nAo criar uma IA para atendimento, é preciso definir o que ela pode responder, quais informações utiliza e quando encaminha a conversa a uma pessoa.\n\nA Fusion desenvolve soluções de IA para empresas, começando pela necessidade de quem compra e de quem atende.\n\nQual resposta automática mais te irrita?\n\n#FusionMidia #IAParaEmpresas #Automacao #ExperienciaDoCliente",
+        "midia": {
+          "arquivo": "media/2026-10-06_estatico.jpg",
+          "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-06_estatico.jpg",
+          "sha256_jpeg": "2fef5bdc13c4b9fdd78823fa496566263218289d340f008412fa1176e02576de",
+          "sha256_original_png": "08680cacf42143f1f24933c817236e8ae2ccdf8d0c256a814e24a9a3ffbcf319",
+          "dimensoes": [
+            1080,
+            1350
+          ]
+        }
+      },
+      "stories": {
+        "publicar_em": "2026-10-06T12:15:00-03:00",
+        "ordem": "Publicar 01, 02 e 03 sequencialmente, uma única vez cada.",
+        "midias": [
+          {
+            "arquivo": "media/2026-10-06_story_01.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-06_story_01.jpg",
+            "sha256_jpeg": "257713eedb0b71241f5782104341aac4df636046bb948e7e1e9f3879d5f8955e",
+            "sha256_original_png": "f637004d469556da4a84fda77afafda423bf942e089637a4f13035699450947d",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-06_story_02.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-06_story_02.jpg",
+            "sha256_jpeg": "1ff33683d7d1b2f1f0ff06c4455bb78cc38ebdd11faff31a03c7601b6392816d",
+            "sha256_original_png": "7774be94481918b4d1b54251e77bfd021edbec6afcba321de55949eb9afed890",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-06_story_03.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-06_story_03.jpg",
+            "sha256_jpeg": "3a9dfb3a89b790d414bef7c6c2d9b94792457bf2fc77774e5cef47542b5ca280",
+            "sha256_original_png": "490e561b648b9f0741cfc225cd564d5110b41e8cfa0ec109f0578606e90d2cf4",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          }
+        ]
+      },
+      "carrossel": {
+        "publicar_em": "2026-10-06T18:30:00-03:00",
+        "legenda": "A IA respondeu. O cliente continuou com a mesma dúvida.\n\nNesta tirinha ilustrativa, uma pergunta simples sobre entrega mostra três decisões que vêm antes de automatizar o atendimento: quais respostas a IA pode dar, quando deve passar a conversa para uma pessoa e qual contexto precisa acompanhar a dúvida.\n\nSe a resposta não resolve, o caminho até alguém da equipe precisa estar claro.\n\nSalve antes de automatizar.\n\n#FusionMidia #IAParaEmpresas #Automacao #ExperienciaDoCliente",
+        "ordem": "Publicar os cinco slides na ordem 01 a 05.",
+        "midias": [
+          {
+            "arquivo": "media/2026-10-06_carrossel_01.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-06_carrossel_01.jpg",
+            "sha256_jpeg": "ff0a7b1e26f835498f1768313aeb77280f38384e80f688652a972b00a40aa6da",
+            "sha256_original_png": "c9d1bb943914e5446a2738cc887119e9472a7c085eb1e450921e749e8195b18b",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-06_carrossel_02.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-06_carrossel_02.jpg",
+            "sha256_jpeg": "cd348f51773b73d5b4048d027cf25745da655e0bf0ba9b9feebcd500491d9fbb",
+            "sha256_original_png": "c2bd46c2fc28935a409288c5de02b83a53663074bb6c0671bcb6ddce5d612692",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-06_carrossel_03.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-06_carrossel_03.jpg",
+            "sha256_jpeg": "1da1279843c97094c56622cd29d1219bdb85c4c9b71dacc358479bc73ab5d99f",
+            "sha256_original_png": "0b0824590437375b2b0ee2b9a51211259273b373942b6d7e505420e6eea163f3",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-06_carrossel_04.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-06_carrossel_04.jpg",
+            "sha256_jpeg": "f73ccecd91e00b89d56d0f1a069881338b315249fe4369e365377f3dc63356b1",
+            "sha256_original_png": "583f0c5434b04207c302c34db6420dc585f07873a3b02cc3cf0209020c2f2e60",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-06_carrossel_05.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-06_carrossel_05.jpg",
+            "sha256_jpeg": "1c78798c79b5723c5ed509d18bffce7e48cef616610d8755df081bb23c433de0",
+            "sha256_original_png": "0e45be6c397fa6abb391b7cd87cb4efee39bc4a999aee88689c0bce20922b6c3",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "data": "2026-10-07",
+      "dia": "Quarta",
+      "estatico": {
+        "publicar_em": "2026-10-07T09:00:00-03:00",
+        "legenda": "Se apenas uma pessoa sabe tudo sobre um cliente, o atendimento fica vulnerável quando ela sai de férias, troca de função ou está ocupada.\n\nUm CRM ajuda a organizar demanda, histórico, responsável e próximos passos. A ferramenta precisa acompanhar um processo que a equipe consegue usar.\n\nA Fusion pode avaliar com sua empresa como conectar atendimento, automações e soluções digitais ao que vocês já utilizam.\n\nEnvie para quem ainda depende da memória.\n\n#FusionMidia #CRM #GestaoComercial #AutomacaoDeProcessos",
+        "midia": {
+          "arquivo": "media/2026-10-07_estatico.jpg",
+          "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-07_estatico.jpg",
+          "sha256_jpeg": "c05d36402ebf617a38f292144290669f79f1fbf36e177b9c88c5b288d0bdf3b1",
+          "sha256_original_png": "3b106eafcc81cba8be5e7f4df251157474374959f0b0b2ca4c39001cc67e50e5",
+          "dimensoes": [
+            1080,
+            1350
+          ]
+        }
+      },
+      "stories": {
+        "publicar_em": "2026-10-07T12:15:00-03:00",
+        "ordem": "Publicar 01, 02 e 03 sequencialmente, uma única vez cada.",
+        "midias": [
+          {
+            "arquivo": "media/2026-10-07_story_01.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-07_story_01.jpg",
+            "sha256_jpeg": "12a8b9d5f9ce13724ba2808b3a087bd2ddcaa4e44340d5ef43ef2683a2bbc598",
+            "sha256_original_png": "1f0fa27303dc390b022333d952a4dad6ee9054750fbf9961bfd64f6b8b3acf4a",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-07_story_02.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-07_story_02.jpg",
+            "sha256_jpeg": "db4474437e8135c88ef986678dcf49bd6356d743f2314e2a4668626948d71ed4",
+            "sha256_original_png": "9b4e503919ea3e2971369776ebc05a107cb050cfd6d91dd6903a584e1101db75",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-07_story_03.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-07_story_03.jpg",
+            "sha256_jpeg": "d04a74c085f2961c31bc9bf06388a076ce4ace0e34de6dfe8f49d5f0257f3db8",
+            "sha256_original_png": "aea1c0cf43b35b1962e0ae03caaaa75291a4a034fba92505eb4d17cb42a75ca7",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          }
+        ]
+      },
+      "carrossel": {
+        "publicar_em": "2026-10-07T18:30:00-03:00",
+        "legenda": "Um CRM precisa ajudar a continuar a conversa, e não apenas acumular telefones.\n\nNo carrossel, usamos demanda, responsável, próxima ação e data. Os exemplos são ilustrativos; não representam um caso real de cliente da Fusion.\n\nComece pelo processo. Depois, avalie quais informações a equipe precisa e qual solução faz sentido para organizá-las.\n\nSalve para organizar seu atendimento.\n\n#FusionMidia #CRM #GestaoComercial #AutomacaoDeProcessos",
+        "ordem": "Publicar os cinco slides na ordem 01 a 05.",
+        "midias": [
+          {
+            "arquivo": "media/2026-10-07_carrossel_01.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-07_carrossel_01.jpg",
+            "sha256_jpeg": "b3117b892213a339e5cd1b925b12eb417894c2ac22e117778e1daadb0a258ae8",
+            "sha256_original_png": "3a6c1394a3a16629092ea571db9cd56011911e1713eea278d3a6b4ef42a7107d",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-07_carrossel_02.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-07_carrossel_02.jpg",
+            "sha256_jpeg": "d60f2114ae398e720c483b55a8468987ac264e831805c973c05659330d0f3306",
+            "sha256_original_png": "8e786dab98184351e33b64bb63330e74d6bb0edc1318ba4aff7296a4ec18ddb7",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-07_carrossel_03.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-07_carrossel_03.jpg",
+            "sha256_jpeg": "05a38e67bb87abb882e2a963cf47aad0aad147cdca24382ab37682d887029792",
+            "sha256_original_png": "6f3345b3b44ba41b6ae089abc0e77c5454c02d72f46583a095bec6f94cfdda4e",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-07_carrossel_04.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-07_carrossel_04.jpg",
+            "sha256_jpeg": "8aa42a189b88df82347ec7643ec6e0b158f210d75e2964041358e00401befabb",
+            "sha256_original_png": "93e68a3306a683eb3265ff181f380389b1ebba64086234e6740c60029be95ac3",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-07_carrossel_05.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-07_carrossel_05.jpg",
+            "sha256_jpeg": "7122fa056521e25c51e8da099bcfe7c13089d5ae421bba532458cc5aca7ecc72",
+            "sha256_original_png": "b3ff038b8d2b793a8fe512ae48fbb4dba1f29fb00433317738c634a020b223d9",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "data": "2026-10-08",
+      "dia": "Quinta",
+      "estatico": {
+        "publicar_em": "2026-10-08T09:00:00-03:00",
+        "legenda": "Um aplicativo pode fazer sentido. Mas a conversa precisa começar pelo trabalho que ele vai ajudar a realizar.\n\nQuem vai usar? Para fazer o quê? Onde a solução atual trava? Ouvir a equipe evita desenhar uma experiência distante da rotina.\n\nA Fusion desenvolve aplicativos, automações e soluções de IA para empresas. A recomendação começa pelo contexto do negócio.\n\nConte uma tarefa que sua equipe repete.\n\n#FusionMidia #AplicativosParaEmpresas #Automacao #EstrategiaDigital",
+        "midia": {
+          "arquivo": "media/2026-10-08_estatico.jpg",
+          "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-08_estatico.jpg",
+          "sha256_jpeg": "6a2600927f01035efbff2ce535665148a39057840acaade9ce215568383b0710",
+          "sha256_original_png": "2dc9d3f03b13c2e4c3ca5438ab6dbbd825c3f012b21675a503e2298ecae6860c",
+          "dimensoes": [
+            1080,
+            1350
+          ]
+        }
+      },
+      "stories": {
+        "publicar_em": "2026-10-08T12:15:00-03:00",
+        "ordem": "Publicar 01, 02 e 03 sequencialmente, uma única vez cada.",
+        "midias": [
+          {
+            "arquivo": "media/2026-10-08_story_01.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-08_story_01.jpg",
+            "sha256_jpeg": "b2250e0d439883b57132b21cef0dc53a6ce60c48ebdb1cc07a0c191dfe27f768",
+            "sha256_original_png": "da5f2347f606ca228b7731c255ae80a86b1f4199e6a494645830703437f7f6c5",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-08_story_02.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-08_story_02.jpg",
+            "sha256_jpeg": "e26b39ac60b739a57464c77702acf4ad1bd09fce60a2b7b41d83f65d7101e414",
+            "sha256_original_png": "7ce80861623a11d1b840c5d705348b1982a48f653d318114db7d5f4e6ff9cf1f",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-08_story_03.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-08_story_03.jpg",
+            "sha256_jpeg": "d1740ecca99c432931803d4393df293fa9044088e4046e43e177e7c6a1e58bb2",
+            "sha256_original_png": "0d7da158501ef0b955aadc0cc259609bba25afb54ae7d026b90060c5405ab985",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          }
+        ]
+      },
+      "carrossel": {
+        "publicar_em": "2026-10-08T18:30:00-03:00",
+        "legenda": "Nem todo problema pede a mesma solução.\n\nProcesso pouco claro pode precisar de organização. Tarefa repetitiva com regra definida pode ser candidata à automação. Uma necessidade específica de uso pode justificar avaliar um aplicativo.\n\nSão critérios iniciais, não um diagnóstico pronto. Na Fusion, a escolha passa por entender pessoas, rotina e o que a empresa já utiliza.\n\nEnvie para quem decide a tecnologia.\n\n#FusionMidia #AplicativosParaEmpresas #Automacao #EstrategiaDigital",
+        "ordem": "Publicar os cinco slides na ordem 01 a 05.",
+        "midias": [
+          {
+            "arquivo": "media/2026-10-08_carrossel_01.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-08_carrossel_01.jpg",
+            "sha256_jpeg": "dd82a25907d9301064d72261c35808a6ba54aba53af457dc3fe9c0833da7be0c",
+            "sha256_original_png": "119f179a6293f375853dad609f3e486645a3d47f2f17960f07f089716f25464a",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-08_carrossel_02.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-08_carrossel_02.jpg",
+            "sha256_jpeg": "b9aa86a4741a388a592a4c07b65676c3c5bacc115f581459eebae629abd2b95d",
+            "sha256_original_png": "0de0584fb41a19db073e1405c7f6b3f884c0a80254e10aa25fb83654243e038c",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-08_carrossel_03.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-08_carrossel_03.jpg",
+            "sha256_jpeg": "e9592eae6ec4b0a9463546ecbcbf28c5580a3f1e43f349424f22d0eb1bf39ac7",
+            "sha256_original_png": "93c04c09c954decc3d579936342da968915f520c32d6c72d2889c9aeac0204b8",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-08_carrossel_04.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-08_carrossel_04.jpg",
+            "sha256_jpeg": "df8b6ded13e85d881a56d72fb1e867f492acfe292f748c11f6869fb02e89a445",
+            "sha256_original_png": "24ef09efe72bc824f1d88f5a45a1ef6ae8457264300a83ac6c39470bffffb40f",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-08_carrossel_05.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-08_carrossel_05.jpg",
+            "sha256_jpeg": "d9c5d4226c794715eb5955efa3c8b0349fa853c91e8f2fe14dda0b8815188057",
+            "sha256_original_png": "65b993f8404948bf76af316fbe31243d3ec3b3e9cf1ed2ccd9b5965aa19e3844",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "data": "2026-10-09",
+      "dia": "Sexta",
+      "estatico": {
+        "publicar_em": "2026-10-09T09:00:00-03:00",
+        "legenda": "“O post teve curtidas.” Ótimo. E o que aconteceu depois?\n\nCurtidas mostram atenção, mas o relatório também precisa ajudar a entender contatos, propostas e retornos. A origem deve ser registrada quando conhecida; uma venda no mesmo período do post não prova, sozinha, que veio dele.\n\nUma pergunta para a próxima reunião: em que ponto o caminho entre interesse e conversa fica pouco claro?\n\nEnvie para quem analisa os resultados.\n\n#FusionMidia #MetricasDeMarketing #MarketingParaEmpresas #GestaoComercial",
+        "midia": {
+          "arquivo": "media/2026-10-09_estatico.jpg",
+          "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-09_estatico.jpg",
+          "sha256_jpeg": "d49f9c683738c92d6fad93da95d929df3245f8d7d79ec3cbc44349a1f49b251e",
+          "sha256_original_png": "8329f3a60a0cf8fa9aa5823ae03944cda67b23b362a73fbb95667719e5f8c86a",
+          "dimensoes": [
+            1080,
+            1350
+          ]
+        }
+      },
+      "stories": {
+        "publicar_em": "2026-10-09T12:15:00-03:00",
+        "ordem": "Publicar 01, 02 e 03 sequencialmente, uma única vez cada.",
+        "midias": [
+          {
+            "arquivo": "media/2026-10-09_story_01.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-09_story_01.jpg",
+            "sha256_jpeg": "07066257f5cc848e1138a3cc9560c24d57a92fdc9519bb6473542a64dd4b79bc",
+            "sha256_original_png": "42def1d80d5fc3bb9f2b1e0f395c1265fc2cb38ee7f7ec684a5604144e270ef1",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-09_story_02.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-09_story_02.jpg",
+            "sha256_jpeg": "e7f62de139485b43982ea506dffa147f6d849934b6f0f96b5c564173ae5de783",
+            "sha256_original_png": "d80a0fc8ba72ab87cd7214f3c74dec890a33c26b55429e8189998506bf8bf716",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-09_story_03.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-09_story_03.jpg",
+            "sha256_jpeg": "4f4152dd43c744bb3d484b5b54a736b7354b2c6347088ec93badd1a350c7734c",
+            "sha256_original_png": "243fbf404735f5d7f9147826f9dba9900f54637b00049d2cc973c27accb8a830",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          }
+        ]
+      },
+      "carrossel": {
+        "publicar_em": "2026-10-09T18:30:00-03:00",
+        "legenda": "Um relatório útil precisa ajudar a decidir o próximo passo.\n\nObserve interesse no conteúdo, contatos e andamento das propostas. Se há atenção, mas poucas conversas, revise oferta e próximo passo. Se as conversas param, examine o atendimento antes de concluir que falta alcance.\n\nInvestigue essas possibilidades com os dados do seu negócio e considere o tempo de decisão de quem compra.\n\nSalve para revisar os resultados.\n\n#FusionMidia #MetricasDeMarketing #MarketingParaEmpresas #GestaoComercial",
+        "ordem": "Publicar os cinco slides na ordem 01 a 05.",
+        "midias": [
+          {
+            "arquivo": "media/2026-10-09_carrossel_01.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-09_carrossel_01.jpg",
+            "sha256_jpeg": "dc4ece91e243f82ffd78b346d7a31cb084ec91cefa93e1c4a0fff1336504aad0",
+            "sha256_original_png": "659872ac713090b498cd1ed5ba2dbe7858f73fc2417ade34c73f592e670669fc",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-09_carrossel_02.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-09_carrossel_02.jpg",
+            "sha256_jpeg": "d11304764eb22f1947426afbd58fee4be64e268df386e0c4cc84d3bc7a74003a",
+            "sha256_original_png": "46f1d728807c44fd116576011bb31d207b4036b2fa1ac059fd99edc88a2f1d4e",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-09_carrossel_03.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-09_carrossel_03.jpg",
+            "sha256_jpeg": "6befebf535e6d5c36228d55cd2246660c1f52243be015c5d0fc698c2c8847ceb",
+            "sha256_original_png": "d94eb7480699acd120e99366c716b00fbd5786f36aaeebf6a8282d702cd1bcba",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-09_carrossel_04.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-09_carrossel_04.jpg",
+            "sha256_jpeg": "26611bc5f506e259f3ffc0d101c2657c9e9ac1cc9f55760b365f095d614dc36e",
+            "sha256_original_png": "862be49afdec3969ed3d2b16a014c761380543e619e9d258929fc49ef96f9cb2",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-09_carrossel_05.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-09_carrossel_05.jpg",
+            "sha256_jpeg": "5d0a26d7eb963095def94a9ab578ddfa593e14528ff4ed6aa3e093e0e8256871",
+            "sha256_original_png": "576fe98a10ba020f8ac26f503f194d77143d24027e8b27007785385fcf8e7eea",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "data": "2026-10-10",
+      "dia": "Sábado",
+      "estatico": {
+        "publicar_em": "2026-10-10T09:00:00-03:00",
+        "legenda": "Se a mesma dúvida volta sempre, ela pode indicar uma informação ausente ou difícil de localizar.\n\nDimensão, material, compatibilidade e conteúdo da embalagem são exemplos. O que importa depende do produto.\n\nA Fusion atua na gestão de marketplaces. Uma oferta clara começa por informações corretas e imagens que explicam.\n\nRevise hoje um anúncio do catálogo.\n\n#FusionMidia #GestaoDeMarketplaces #Ecommerce #FotografiaDeProduto",
+        "midia": {
+          "arquivo": "media/2026-10-10_estatico.jpg",
+          "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-10_estatico.jpg",
+          "sha256_jpeg": "6dbca2285a5cab140ee508dc25b2d8d0ab72b115160d6408d4b3934a038bdf78",
+          "sha256_original_png": "8595fbedcdb8bf125b70a1b32a92bef294e84caef7dc69f74b7480ebccfb13cb",
+          "dimensoes": [
+            1080,
+            1350
+          ]
+        }
+      },
+      "stories": {
+        "publicar_em": "2026-10-10T12:15:00-03:00",
+        "ordem": "Publicar 01, 02 e 03 sequencialmente, uma única vez cada.",
+        "midias": [
+          {
+            "arquivo": "media/2026-10-10_story_01.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-10_story_01.jpg",
+            "sha256_jpeg": "6930bce4aba5444368fab69b4cdc581f3ca92435ae42b55700b13f4ee77e83fe",
+            "sha256_original_png": "0192c57fa95cc8881519a770520e18249ac900ff3186bda3f0f0cf5abbfd971f",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-10_story_02.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-10_story_02.jpg",
+            "sha256_jpeg": "f6d9cd4e0980524c1f3b3633b4155c3b1606d0adaaf07c01ae35852f46c0ab41",
+            "sha256_original_png": "bd454cdea127c8ca593096ef91d29da54453031af79dc16655865bba0af57a91",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-10_story_03.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-10_story_03.jpg",
+            "sha256_jpeg": "f99484b42b2d2bf6bd322a07c212d02c3447fbb0e22df737b12e3e15ac8068ff",
+            "sha256_original_png": "eefe4cb7692e98de100879030e30909ea503761bbd8ac055b6ede04cf57b4e03",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          }
+        ]
+      },
+      "carrossel": {
+        "publicar_em": "2026-10-10T18:30:00-03:00",
+        "legenda": "Imagem bonita precisa ajudar a entender o que está sendo vendido.\n\nProduto inteiro, detalhe relevante e contexto de uso cumprem funções diferentes. O conjunto depende do item e das regras do canal; este é um checklist editorial, não uma regra única de todos os marketplaces.\n\nUse imagens fiéis e informações confirmadas. Não sugira que acessórios estão incluídos se não estiverem.\n\nSalve para revisar seu catálogo.\n\n#FusionMidia #GestaoDeMarketplaces #Ecommerce #FotografiaDeProduto",
+        "ordem": "Publicar os cinco slides na ordem 01 a 05.",
+        "midias": [
+          {
+            "arquivo": "media/2026-10-10_carrossel_01.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-10_carrossel_01.jpg",
+            "sha256_jpeg": "77b76f13c533f663b2d6b2f13a7315eb05e0c45dcfb88e7d72bc45a3f3d48274",
+            "sha256_original_png": "215ee706cf29381d994bc061601cb53f67a11e988b71ac746363a593f1819a83",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-10_carrossel_02.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-10_carrossel_02.jpg",
+            "sha256_jpeg": "b872fb84277ed6574f607c9c0bd375c6a610e5550570bb2f7feb606ba896688b",
+            "sha256_original_png": "da2f66ac8c8d15833dace78f18467031845e4e2505c07d60ea49968954aa7956",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-10_carrossel_03.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-10_carrossel_03.jpg",
+            "sha256_jpeg": "25e13027ddbab7064fb9fabbef7d78c231e416c68e61feaa48f79c3869bc92c0",
+            "sha256_original_png": "1bb7fa9be1a7d0d4e9ef421735a9cb483c43f6593e09dde821efaa59883e40a7",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-10_carrossel_04.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-10_carrossel_04.jpg",
+            "sha256_jpeg": "e48cc94dc5ad9869a66c00a0b24c59f815afeda6ef6151f8d4ea669ba12a2253",
+            "sha256_original_png": "40f369e7a4794d6bd6402112be9b0bc899dfff91151f7370b76a7215f7c01a1a",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-10_carrossel_05.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-10_carrossel_05.jpg",
+            "sha256_jpeg": "559bd16cf1e7986eaf9ae142cbc62e7b24d363c12c26471dd5c2f3bf163516f1",
+            "sha256_original_png": "1f98294bd1dfe733f90a4723b203c88e65a1bfdf5773e76a19f49cc39e5b1a11",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "data": "2026-10-11",
+      "dia": "Domingo",
+      "estatico": {
+        "publicar_em": "2026-10-11T09:00:00-03:00",
+        "legenda": "Você não precisa chegar dizendo “quero uma IA” ou “preciso de um aplicativo”.\n\nPode começar assim: “Recebemos contatos, mas perdemos o retorno”, “Nossa equipe copia informações o dia inteiro” ou “O catálogo está difícil de manter”. São exemplos de problemas que merecem ser entendidos no contexto da empresa.\n\nA Fusion conecta estratégia de marketing, automação e soluções digitais a necessidades do negócio.\n\nPeça um diagnóstico no link da bio.\n\n#FusionMidia #DiagnosticoDeNegocios #MarketingEAutomacao #TecnologiaParaEmpresas",
+        "midia": {
+          "arquivo": "media/2026-10-11_estatico.jpg",
+          "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-11_estatico.jpg",
+          "sha256_jpeg": "228790b8b5b2b3cfce9a2cc4de34126eb0e1294bc689381611e248aa2bcf2704",
+          "sha256_original_png": "c452c108a6385e0ba06a0f2ee800cd4230630b8bffe7fb9c7b3902e1a24a3aa1",
+          "dimensoes": [
+            1080,
+            1350
+          ]
+        }
+      },
+      "stories": {
+        "publicar_em": "2026-10-11T12:15:00-03:00",
+        "ordem": "Publicar 01, 02 e 03 sequencialmente, uma única vez cada.",
+        "midias": [
+          {
+            "arquivo": "media/2026-10-11_story_01.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-11_story_01.jpg",
+            "sha256_jpeg": "0a60da4d0ff200836c11925a58b145b44c3f108b87c9557c18b3e2be292bee63",
+            "sha256_original_png": "f9d87edcf50e82c2b1701901673507e9ea26e745393a108e66b6673c72beaeb3",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-11_story_02.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-11_story_02.jpg",
+            "sha256_jpeg": "5486ffb8a04654e5d972fac6e017fe223be9016b896911f2bacfc89feaf5fd24",
+            "sha256_original_png": "a49fd1806b94a908d5f11f6453edf5056f90b8de13338e25018e876fe65ced24",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-11_story_03.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-11_story_03.jpg",
+            "sha256_jpeg": "994bca4f3b7b86adfdb352485db3e5faf66fb3f471d9a41a190d9a7693407219",
+            "sha256_original_png": "9d02ca8d65dd254ca7101cd80bc2c52a3f4957cf49f29b1d24f93b516bfc3b26",
+            "dimensoes": [
+              1080,
+              1920
+            ]
+          }
+        ]
+      },
+      "carrossel": {
+        "publicar_em": "2026-10-11T18:30:00-03:00",
+        "legenda": "Você não precisa preparar um briefing perfeito.\n\nConte o que sua empresa faz, uma situação concreta que trava a rotina e o que já foi tentado. Assim, a conversa sai do catálogo de serviços e chega ao que você precisa resolver.\n\nA partir desse contexto, a Fusion avalia com você os próximos passos e o escopo que faz sentido.\n\nPeça um diagnóstico no link da bio.\n\n#FusionMidia #DiagnosticoDeNegocios #MarketingEAutomacao #TecnologiaParaEmpresas",
+        "ordem": "Publicar os cinco slides na ordem 01 a 05.",
+        "midias": [
+          {
+            "arquivo": "media/2026-10-11_carrossel_01.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-11_carrossel_01.jpg",
+            "sha256_jpeg": "19c0d098ac9828bdf8ba3d3e5e2e7805cef02f7710354db62be51d357b20f6fb",
+            "sha256_original_png": "82fb641e746319c04143b1564a97e657398801ab2a59e3b6ed894525c07972d6",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-11_carrossel_02.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-11_carrossel_02.jpg",
+            "sha256_jpeg": "d2feded5d9042886d30ac74b9fb953d353e9e08846730b5581327914a43ce409",
+            "sha256_original_png": "c71dd4be8799e4f273bb5b030d53ece85cb436a52320241f83228aabf195b12c",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-11_carrossel_03.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-11_carrossel_03.jpg",
+            "sha256_jpeg": "c3a4fb0581344b3c0b2cdb1577228630b9356af41e1bbca6e59e60aaeec1c48c",
+            "sha256_original_png": "b94e428a7e2ca482915de3e0671087d6b891157bf83298864a39111478e7e48d",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-11_carrossel_04.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-11_carrossel_04.jpg",
+            "sha256_jpeg": "4c98161fd2ba36f6511556131a675e353f0101d96aff1bc96635bbc4d687c236",
+            "sha256_original_png": "3747545d17e315dc263b925c3f90d1e4e900a70f1e0091b754aee9d4c55c67a6",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          },
+          {
+            "arquivo": "media/2026-10-11_carrossel_05.jpg",
+            "url_publica": "https://raw.githubusercontent.com/peaulo00/fusionmidia-instagram-media/392ac7070257ef8d12510e966df3af0d31d55a6f/semana-05-11-out-2026/media/2026-10-11_carrossel_05.jpg",
+            "sha256_jpeg": "3e1735290709b38e10e08f3930fd8271ca95a85027a553b627ec749a2f5c7063",
+            "sha256_original_png": "ee0fc847be69d2aeba7a3b1d2cc00293d6487addf2ae4969a85990d7de2bad25",
+            "dimensoes": [
+              1080,
+              1350
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
