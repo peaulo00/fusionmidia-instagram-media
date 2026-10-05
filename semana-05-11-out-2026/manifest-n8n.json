@@ -2,7 +2,7 @@
   "campanha": "Fusion Mídia | 05–11/10/2026",
   "conta": "@fusionmidiaoficial",
   "fuso_horario": "America/Sao_Paulo",
-  "status": "conteudo_aprovado; hospedagem_https_pronta; automacao_temporaria_codex_em_configuracao",
+  "status": "conteudo_aprovado; hospedagem_https_pronta",
   "aprovado_em": "2026-10-02T13:36:48-03:00",
   "total": {
     "estaticos": 7,
@@ -11,7 +11,7 @@
     "stories": 21,
     "arquivos_jpeg": 63
   },
-  "observacao": "URLs HTTPS públicas prontas. Automação temporária no Codex autorizada em 05/10; desabilitar antes de ativar o fluxo n8n para evitar duplicações.",
+  "observacao": "URLs públicas prontas. Automação temporária no Codex ativa de 05 a 11/10/2026; antes de ativar o n8n, encerrar as automações locais e importar os IDs já publicados para evitar duplicações.",
   "dias": [
     {
       "data": "2026-10-05",
